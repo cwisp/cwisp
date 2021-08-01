@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**cwisp/cwisp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cwisp/cwisp** is a ✨ _special_ ✨ repository for #100DaysOfCode challenge by Surpath Hub.
 
 Here are some ideas to get you started:
 
